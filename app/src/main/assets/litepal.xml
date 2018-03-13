@@ -3,7 +3,7 @@
 
     <dbname value="cool_weather"/>
 
-    <verison value="1" />
+    <version value="1" />
 
     <list>
         <mapping class="com.coolweather.android.db.Province"/>
